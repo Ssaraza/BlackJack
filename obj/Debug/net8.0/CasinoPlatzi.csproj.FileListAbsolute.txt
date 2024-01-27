@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\bin\Debug\net8.0\CasinoPlatzi.exe
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\bin\Debug\net8.0\CasinoPlatzi.deps.json
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\bin\Debug\net8.0\CasinoPlatzi.runtimeconfig.json
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\bin\Debug\net8.0\CasinoPlatzi.dll
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\bin\Debug\net8.0\CasinoPlatzi.pdb
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.dll
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\refint\CasinoPlatzi.dll
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.pdb
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\CasinoPlatzi.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CasinoPlatzi\CasinoPlatzi\obj\Debug\net8.0\ref\CasinoPlatzi.dll
